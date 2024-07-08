@@ -1,0 +1,4 @@
+flask
+gunicorn
+docker
+python-dotenv
